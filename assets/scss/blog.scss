@@ -56,6 +56,8 @@
         aspect-ratio: 16 / 9;
         overflow: hidden;
         background-color: #2d1714;
+        border: 1px solid rgba(45, 23, 20, 0.12);
+        box-shadow: 0 18px 45px rgba(45, 23, 20, 0.14);
 
         iframe,
         .dairy-video-card {
@@ -86,7 +88,7 @@
             content: '';
             position: absolute;
             inset: 0;
-            background: rgba(45, 23, 20, 0.18);
+            background: linear-gradient(180deg, rgba(45, 23, 20, 0.06), rgba(45, 23, 20, 0.46));
             z-index: 1;
         }
 
@@ -103,7 +105,8 @@
     }
 
     .dairy-video-card__mute,
-    .dairy-video-card__play {
+    .dairy-video-card__play,
+    .dairy-video-card__label {
         position: absolute;
         display: flex;
         align-items: center;
@@ -125,10 +128,11 @@
     .dairy-video-card__play {
         top: 50%;
         left: 50%;
-        width: 54px;
-        height: 54px;
+        width: 62px;
+        height: 62px;
         border-radius: 50%;
-        font-size: 22px;
+        font-size: 24px;
+        box-shadow: 0 12px 30px rgba(0, 0, 0, 0.25);
         transform: translate(-50%, -50%);
         transition: transform 0.3s ease;
     }
@@ -137,10 +141,24 @@
         margin-left: 3px;
     }
 
+    .dairy-video-card__label {
+        left: 22px;
+        bottom: 20px;
+        min-height: 38px;
+        padding: 0 16px;
+        font-size: 13px;
+        line-height: 1;
+        font-weight: 600;
+        letter-spacing: 0.6px;
+        text-transform: uppercase;
+        background-color: rgba(45, 23, 20, 0.82);
+    }
+
     .dairy-media-blog__content {
         color: var(--black);
         font-size: 16px;
         line-height: 1.55;
+        padding: 4px 0;
 
         p + p {
             margin-top: 18px;
@@ -170,6 +188,11 @@
             h2 {
                 font-size: 26px;
             }
+        }
+
+        .dairy-video-card__label {
+            left: 16px;
+            bottom: 16px;
         }
     }
 }
