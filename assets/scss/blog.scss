@@ -70,6 +70,9 @@
         position: relative;
         cursor: pointer;
         overflow: hidden;
+        padding: 0;
+        border: 0;
+        background: transparent;
 
         img {
             width: 100%;
