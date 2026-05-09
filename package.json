@@ -2,7 +2,7 @@
   "devDependencies": {
     "tailwindcss": "^3.4.1"
   },
-  "name": "anvogue_html",
+  "name": "Hoof Beat_html",
   "version": "1.0.0",
   "main": "tailwind.config.js",
   "scripts": {

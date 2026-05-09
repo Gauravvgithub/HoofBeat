@@ -772,7 +772,7 @@ const handleItemModalWishlist = () => {
                     <div class=''>
                         <div class="name text-button">${item.name}</div>
                         <div class="flex items-center gap-2 mt-2">
-                            <div class="product-price text-title">$${item.price}.00</div>
+                            <div class="product-price text-title">₹${item.price}.00</div>
                             <div class="product-origin-price text-title text-secondary2">
                                 <del>$${item.originPrice}.00</del>
                             </div>
@@ -924,7 +924,7 @@ const handleItemModalCart = () => {
                             <div class="flex items-center text-secondary2 capitalize">
                                 ${item.sizes[0]}/${item.variation[0].color}
                             </div>
-                            <div class="product-price text-title">$${item.price}.00</div>
+                            <div class="product-price text-title">₹${item.price}.00</div>
                         </div>
                     </div>
                 </div>
@@ -2096,7 +2096,7 @@ const createProductItem = (product) => {
     }
         <div
         class="product-price-block flex items-center gap-2 flex-wrap mt-1 duration-300 relative z-[1]">
-        <div class="product-price text-title">$${product.price}.00</div>
+        <div class="product-price text-title">₹${product.price}.00</div>
         ${Math.floor(100 - (product.price / product.originPrice) * 100) > 0
       ? `
                 <div class="product-origin-price caption1 text-secondary2">
