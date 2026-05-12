@@ -2056,15 +2056,19 @@ const createProductItem = (product) => {
                 ${product.variation.length > 0 &&
       product.action === "add to cart"
       ? `
-                        <div class="list-color py-2 max-md:hidden flex items-center gap-3 flex-wrap duration-500">
+                        <div class="list-color list-color-image py-2 max-md:hidden flex items-center gap-3 flex-wrap duration-500">
                             ${product.variation
         .map(
           (item, index) =>
             `<div
                                     key="${index}"
-                                    class="color-item w-8 h-8 rounded-full duration-300 relative"
-                                    style="background-color:${item.colorCode};"
+                                    class="color-item w-12 h-12 rounded-xl duration-300 relative"
                                 >
+                                    <img
+                                        src="${item.colorImage}"
+                                        alt='${item.color}'
+                                        class='rounded-xl w-full h-full object-cover'
+                                    />
                                     <div class="tag-action bg-black text-white caption2 capitalize px-1.5 py-0.5 rounded-sm">${item.color}</div>
                                 </div>
                                 `
@@ -2100,7 +2104,7 @@ const createProductItem = (product) => {
         ${Math.floor(100 - (product.price / product.originPrice) * 100) > 0
       ? `
                 <div class="product-origin-price caption1 text-secondary2">
-                    <del>$${product.originPrice}.00</del>
+                    <del>₹${product.originPrice}.00</del>
                 </div>
                 <div
                     class="product-sale caption1 font-medium bg-green px-3 py-0.5 inline-block rounded-full">
