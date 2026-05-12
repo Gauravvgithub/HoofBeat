@@ -386,6 +386,10 @@ const getProductQueryValue = (container, selector) => {
   return element ? element.textContent.trim() : "";
 };
 
+const formatProductQueryPrice = (price) => {
+  return price.replace(/\$/g, "₹").trim();
+};
+
 const buildProductQueryData = (btn) => {
   const productContainer =
     btn.closest(".product-infor") ||
@@ -399,7 +403,9 @@ const buildProductQueryData = (btn) => {
 
   return {
     productName,
-    productPrice: getProductQueryValue(productContainer, ".product-price"),
+    productPrice: formatProductQueryPrice(
+      getProductQueryValue(productContainer, ".product-price")
+    ),
     quantity: getProductQueryValue(productContainer, ".quantity-block .quantity"),
     color: getProductQueryValue(productContainer, ".choose-color .color"),
     size: getProductQueryValue(productContainer, ".choose-size .size"),
@@ -774,7 +780,7 @@ const handleItemModalWishlist = () => {
                         <div class="flex items-center gap-2 mt-2">
                             <div class="product-price text-title">₹${item.price}.00</div>
                             <div class="product-origin-price text-title text-secondary2">
-                                <del>$${item.originPrice}.00</del>
+                                <del>₹${item.originPrice}.00</del>
                             </div>
                         </div>
                     </div>
@@ -936,7 +942,7 @@ const handleItemModalCart = () => {
     // Set money to freeship in cart
     modalCart.querySelector('.more-price').innerHTML = moneyForFreeship - totalCart
     modalCart.querySelector('.tow-bar-block .progress-line').style.width = (totalCart / moneyForFreeship * 100) + '%'
-    modalCart.querySelector('.total-cart').innerHTML = '$' + totalCart + '.00'
+    modalCart.querySelector('.total-cart').innerHTML = '₹' + totalCart + '.00'
     if (moneyForFreeship - totalCart <= 0) {
       modalCart.querySelector('.more-price').innerHTML = 0
       modalCart.querySelector('.tow-bar-block .progress-line').style.width = '100%'
@@ -956,7 +962,7 @@ const handleItemModalCart = () => {
       if (cartStore.length === 0) {
         modalCart.querySelector('.more-price').innerHTML = 0
         modalCart.querySelector('.tow-bar-block .progress-line').style.width = '0'
-        modalCart.querySelector('.total-cart').innerHTML = '$0.00'
+        modalCart.querySelector('.total-cart').innerHTML = '₹0.00'
       }
     });
   });
@@ -1591,7 +1597,7 @@ const handleItemModalCompare = () => {
                     </div>
                     <div class=''>
                         <div class="name text-title">${item.name}</div>
-                        <div class="product-price text-title mt-2">$${item.price}.00</div>
+                        <div class="product-price text-title mt-2">₹${item.price}.00</div>
                     </div>
                 </div>
                 <div
@@ -1712,8 +1718,8 @@ const handleItemModalQuickview = () => {
       }
     }
     modalQuickviewMain.querySelector('.product-infor .rate').innerHTML = arrOfStar
-    modalQuickviewMain.querySelector('.product-infor .product-price').innerHTML = '$' + item.price + '.00'
-    modalQuickviewMain.querySelector('.product-infor .product-origin-price del').innerHTML = '$' + item.originPrice + '.00'
+    modalQuickviewMain.querySelector('.product-infor .product-price').innerHTML = '₹' + item.price + '.00'
+    modalQuickviewMain.querySelector('.product-infor .product-origin-price del').innerHTML = '₹' + item.originPrice + '.00'
     modalQuickviewMain.querySelector('.product-infor .product-sale').innerHTML = '-' + Math.floor(100 - (item.price / item.originPrice) * 100) + '%'
     modalQuickviewMain.querySelector('.product-infor .desc').innerHTML = item.description
 
@@ -2953,7 +2959,7 @@ const createProductItemMarketplace = (product) => {
                         <div class="flex gap-0.5 mt-1">
                             ${arrOfStar}
                         </div>
-                        <span class="text-title inline-block mt-1">$${product.price}.00</span>
+                        <span class="text-title inline-block mt-1">₹${product.price}.00</span>
                     </div>
     `;
 
@@ -3625,7 +3631,7 @@ if (listProductCompare) {
       );
       priceElement.innerHTML = `
                 <div class='price-item h-full flex items-center justify-center'>
-                    $${product.price}.00
+                    ₹${product.price}.00
                 </div>
             `;
 
@@ -3779,7 +3785,7 @@ const handleInforCart = () => {
                     </div>
                 </div>
                 <div class="w-1/12 price flex items-center justify-center">
-                    <div class="text-title text-center">$${product.price}.00</div>
+                    <div class="text-title text-center">₹${product.price}.00</div>
                 </div>
                 <div class="w-1/6 flex items-center justify-center">
                     <div
@@ -3790,7 +3796,7 @@ const handleInforCart = () => {
                     </div>
                 </div>
                 <div class="w-1/6 flex total-price items-center justify-center">
-                    <div class="text-title text-center">$${product.price}.00
+                    <div class="text-title text-center">₹${product.price}.00
                     </div>
                 </div>
                 <div class="w-1/12 flex items-center justify-center">
@@ -3808,7 +3814,7 @@ const handleInforCart = () => {
       quantityBlock.querySelector(".ph-plus").addEventListener("click", () => {
         product.quantityPurchase++;
         quantityProduct.textContent = product.quantityPurchase;
-        totalPriceProduct.textContent = `$${product.quantityPurchase * product.price
+        totalPriceProduct.textContent = `₹${product.quantityPurchase * product.price
           }.00`;
         updateTotalCart();
 
@@ -3820,7 +3826,7 @@ const handleInforCart = () => {
         if (product.quantityPurchase > 1) {
           product.quantityPurchase--;
           quantityProduct.textContent = product.quantityPurchase;
-          totalPriceProduct.textContent = `$${product.quantityPurchase * product.price
+          totalPriceProduct.textContent = `₹${product.quantityPurchase * product.price
             }.00`;
           updateTotalCart();
 
@@ -3912,7 +3918,7 @@ if (listProductCheckout) {
                     <span class='quantity'>${product.quantityPurchase}</span>
                     <span class='px-1'>x</span>
                     <span>
-                        $${product.price}.00
+                        ₹${product.price}.00
                     </span>
                 </div>
             </div>
@@ -3922,7 +3928,7 @@ if (listProductCheckout) {
     totalCart += product.price * product.quantityPurchase;
     document.querySelector(
       ".total-cart-block .total-cart"
-    ).innerHTML = `$${totalCart}.00`;
+    ).innerHTML = `₹${totalCart}.00`;
   });
 }
 

@@ -125,6 +125,7 @@ try {
         }
 
         $mail->isHTML(true);
+        $mail->CharSet = 'UTF-8';
         $mail->Subject = $subject;
         $mail->Body = $htmlBody;
         $mail->AltBody = $plainBody;
