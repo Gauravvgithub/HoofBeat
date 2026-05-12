@@ -23,7 +23,6 @@
       .header-menu.fixed,
       .menu_bar,
       .cow-life-gallery,
-      .dairy-media-blog,
       .footer-main {
         background-color: #ffffff !important;
       }
@@ -981,9 +980,15 @@
 
     <section class="dairy-media-blog md:py-20 py-10">
       <div class="container">
-        <div class="dairy-media-blog__header text-center">
-          <div class="text-button-uppercase">Products You Will Love</div>
-          <h2>Traditional Bilona Method Ghee</h2>
+        <div class="dairy-media-blog__header">
+          <div>
+            <div class="dairy-media-blog__eyebrow">Products You Will Love</div>
+            <h2>Traditional Bilona Method Ghee</h2>
+          </div>
+          <p>
+            Slow-churned from cultured curd, crafted in small batches, and made
+            for the taste of everyday Indian kitchens.
+          </p>
         </div>
         <div
           class="dairy-media-blog__feature grid lg:grid-cols-2 gap-10 items-center"
@@ -1005,10 +1010,18 @@
               <span class="dairy-video-card__play">
                 <i class="ph-fill ph-play"></i>
               </span>
-              <span class="dairy-video-card__label">Watch Farm Video</span>
+              <span class="dairy-video-card__label">
+                <span>Farm To Family</span>
+                <strong>Watch The Process</strong>
+              </span>
             </button>
           </div>
           <div class="dairy-media-blog__content">
+            <div class="dairy-media-blog__badge">
+              <i class="ph ph-seal-check"></i>
+              <span>Pure dairy, traditional process</span>
+            </div>
+            <h3>Made patiently, just like home.</h3>
             <p>
               HoofBeats stands for honest dairy made with care, bringing
               together traditional wisdom and modern hygiene. Our GIR cows are
@@ -1021,11 +1034,25 @@
               close to home, trusted by families who value clean ingredients and
               authentic Indian flavor.
             </p>
+            <div class="dairy-media-blog__stats">
+              <div>
+                <strong>Bilona</strong>
+                <span>slow churned</span>
+              </div>
+              <div>
+                <strong>A2</strong>
+                <span>GIR cow milk</span>
+              </div>
+              <div>
+                <strong>Fresh</strong>
+                <span>daily batches</span>
+              </div>
+            </div>
           </div>
         </div>
 
         <div class="list-blog grid md:grid-cols-3 gap-7 md:mt-12 mt-8">
-          <div class="blog-item">
+          <div class="blog-item dairy-story-card">
             <a
               href="blog-detail1.html"
               class="blog-thumb block overflow-hidden"
@@ -1035,6 +1062,7 @@
                 class="w-full duration-500"
                 alt="Fresh milk from GIR cows"
               />
+              <span class="dairy-story-card__tag">A2 Milk</span>
             </a>
             <div class="caption2 text-secondary mt-5">Dairy Guide</div>
             <a href="blog-detail1.html" class="blog-title heading6 block mt-2">
@@ -1045,7 +1073,7 @@
               cow milk.
             </div>
           </div>
-          <div class="blog-item">
+          <div class="blog-item dairy-story-card">
             <a
               href="blog-detail2.html"
               class="blog-thumb block overflow-hidden"
@@ -1055,6 +1083,7 @@
                 class="w-full duration-500"
                 alt="Dairy cows at HoofBeats farm"
               />
+              <span class="dairy-story-card__tag">Farm Care</span>
             </a>
             <div class="caption2 text-secondary mt-5">Farm Life</div>
             <a href="blog-detail2.html" class="blog-title heading6 block mt-2">
@@ -1064,7 +1093,7 @@
               From open space to clean routines, good care begins at the farm.
             </div>
           </div>
-          <div class="blog-item">
+          <div class="blog-item dairy-story-card">
             <a
               href="blog-detail1.html"
               class="blog-thumb block overflow-hidden"
@@ -1074,6 +1103,7 @@
                 class="w-full duration-500"
                 alt="GIR cows grazing on the farm"
               />
+              <span class="dairy-story-card__tag">Daily Dairy</span>
             </a>
             <div class="caption2 text-secondary mt-5">Fresh Products</div>
             <a href="blog-detail1.html" class="blog-title heading6 block mt-2">

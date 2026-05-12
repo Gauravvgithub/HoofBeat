@@ -28,19 +28,19 @@
       {
         "color": "1L",
         "colorCode": "#FFFFFF",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/milk.png",
+        "image": "./assets/images/product/newP/milk.png"
       }
     ],
     "thumbImage": [
-      "",
-      ""
+      "./assets/images/product/newP/milk.png",
+      "./assets/images/product/newP/milk.png"
     ],
     "images": [
-      "",
-      "",
-      "",
-      ""
+      "./assets/images/product/newP/milk.png",
+      "./assets/images/product/newP/milk.png",
+      "./assets/images/product/newP/milk.png",
+      "./assets/images/product/newP/milk.png"
     ],
     "description": "Fresh organic cow milk sourced daily for a clean, creamy taste.",
     "action": "add to cart",
@@ -69,25 +69,25 @@
       {
         "color": "500ml",
         "colorCode": "#F6EFDD",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/milk.png",
+        "image": "./assets/images/product/newP/milk.png"
       },
       {
         "color": "1L",
         "colorCode": "#FFFFFF",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/milk.png",
+        "image": "./assets/images/product/newP/milk.png"
       }
     ],
     "thumbImage": [
-      "",
-      ""
+      "./assets/images/product/newP/milk.png",
+      "./assets/images/product/newP/milk.png"
     ],
     "images": [
-      "",
-      "",
-      "",
-      ""
+      "./assets/images/product/newP/milk.png",
+      "./assets/images/product/newP/milk.png",
+      "./assets/images/product/newP/milk.png",
+      "./assets/images/product/newP/milk.png"
     ],
     "description": "Naturally rich A2 milk from desi cows, packed fresh for everyday nutrition.",
     "action": "add to cart",
@@ -116,25 +116,25 @@
       {
         "color": "500ml",
         "colorCode": "#F6EFDD",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/milk.png",
+        "image": "./assets/images/product/newP/milk.png"
       },
       {
         "color": "1L",
         "colorCode": "#FFFFFF",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/milk.png",
+        "image": "./assets/images/product/newP/milk.png"
       }
     ],
     "thumbImage": [
-      "",
-      ""
+      "./assets/images/product/newP/milk.png",
+      "./assets/images/product/newP/milk.png"
     ],
     "images": [
-      "",
-      "",
-      "",
-      ""
+      "./assets/images/product/newP/milk.png",
+      "./assets/images/product/newP/milk.png",
+      "./assets/images/product/newP/milk.png",
+      "./assets/images/product/newP/milk.png"
     ],
     "description": "Creamy full cream milk ideal for tea, coffee, sweets, and daily use.",
     "action": "add to cart",
@@ -163,25 +163,25 @@
       {
         "color": "500ml",
         "colorCode": "#F6EFDD",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/milk.png",
+        "image": "./assets/images/product/newP/milk.png"
       },
       {
         "color": "1L",
         "colorCode": "#FFFFFF",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/milk.png",
+        "image": "./assets/images/product/newP/milk.png"
       }
     ],
     "thumbImage": [
-      "",
-      ""
+      "./assets/images/product/newP/milk.png",
+      "./assets/images/product/newP/milk.png"
     ],
     "images": [
-      "",
-      "",
-      "",
-      ""
+      "./assets/images/product/newP/milk.png",
+      "./assets/images/product/newP/milk.png",
+      "./assets/images/product/newP/milk.png",
+      "./assets/images/product/newP/milk.png"
     ],
     "description": "Light, balanced toned milk for a smooth everyday dairy option.",
     "action": "add to cart",
@@ -211,31 +211,31 @@
       {
         "color": "250ml",
         "colorCode": "#ECB018",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/ghee.png",
+        "image": "./assets/images/product/newP/ghee.png"
       },
       {
         "color": "500ml",
         "colorCode": "#D79A08",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/ghee.png",
+        "image": "./assets/images/product/newP/ghee.png"
       },
       {
         "color": "1L",
         "colorCode": "#B87503",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/ghee.png",
+        "image": "./assets/images/product/newP/ghee.png"
       }
     ],
     "thumbImage": [
-      "",
-      ""
+      "./assets/images/product/newP/ghee.png",
+      "./assets/images/product/newP/ghee.png"
     ],
     "images": [
-      "",
-      "",
-      "",
-      ""
+      "./assets/images/product/newP/ghee.png",
+      "./assets/images/product/newP/ghee.png",
+      "./assets/images/product/newP/ghee.png",
+      "./assets/images/product/newP/ghee.png"
     ],
     "description": "Aromatic A2 cow ghee made in small batches for rich flavor.",
     "action": "add to cart",
@@ -265,31 +265,31 @@
       {
         "color": "250ml",
         "colorCode": "#ECB018",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/ghee.png",
+        "image": "./assets/images/product/newP/ghee.png"
       },
       {
         "color": "500ml",
         "colorCode": "#D79A08",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/ghee.png",
+        "image": "./assets/images/product/newP/ghee.png"
       },
       {
         "color": "1L",
         "colorCode": "#B87503",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/ghee.png",
+        "image": "./assets/images/product/newP/ghee.png"
       }
     ],
     "thumbImage": [
-      "",
-      ""
+      "./assets/images/product/newP/ghee.png",
+      "./assets/images/product/newP/ghee.png"
     ],
     "images": [
-      "",
-      "",
-      "",
-      ""
+      "./assets/images/product/newP/ghee.png",
+      "./assets/images/product/newP/ghee.png",
+      "./assets/images/product/newP/ghee.png",
+      "./assets/images/product/newP/ghee.png"
     ],
     "description": "Traditional bilona ghee with a deep aroma and wholesome texture.",
     "action": "add to cart",
@@ -318,25 +318,25 @@
       {
         "color": "250ml",
         "colorCode": "#ECB018",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/ghee.png",
+        "image": "./assets/images/product/newP/ghee.png"
       },
       {
         "color": "500ml",
         "colorCode": "#D79A08",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/ghee.png",
+        "image": "./assets/images/product/newP/ghee.png"
       }
     ],
     "thumbImage": [
-      "",
-      ""
+      "./assets/images/product/newP/ghee.png",
+      "./assets/images/product/newP/ghee.png"
     ],
     "images": [
-      "",
-      "",
-      "",
-      ""
+      "./assets/images/product/newP/ghee.png",
+      "./assets/images/product/newP/ghee.png",
+      "./assets/images/product/newP/ghee.png",
+      "./assets/images/product/newP/ghee.png"
     ],
     "description": "Smooth cultured cow ghee made for cooking, tadka, and sweets.",
     "action": "add to cart",
@@ -365,25 +365,25 @@
       {
         "color": "200ml",
         "colorCode": "#F6EFDD",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/lassi.png",
+        "image": "./assets/images/product/newP/lassi.png"
       },
       {
         "color": "500ml",
         "colorCode": "#FFFFFF",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/lassi.png",
+        "image": "./assets/images/product/newP/lassi.png"
       }
     ],
     "thumbImage": [
-      "",
-      ""
+      "./assets/images/product/newP/lassi.png",
+      "./assets/images/product/newP/lassi.png"
     ],
     "images": [
-      "",
-      "",
-      "",
-      ""
+      "./assets/images/product/newP/lassi.png",
+      "./assets/images/product/newP/lassi.png",
+      "./assets/images/product/newP/lassi.png",
+      "./assets/images/product/newP/lassi.png"
     ],
     "description": "Classic sweet lassi with a thick, refreshing dairy finish.",
     "action": "add to cart",
@@ -412,25 +412,25 @@
       {
         "color": "200ml",
         "colorCode": "#F5B942",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/lassi.png",
+        "image": "./assets/images/product/newP/lassi.png"
       },
       {
         "color": "500ml",
         "colorCode": "#F9D66B",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/lassi.png",
+        "image": "./assets/images/product/newP/lassi.png"
       }
     ],
     "thumbImage": [
-      "",
-      ""
+      "./assets/images/product/newP/lassi.png",
+      "./assets/images/product/newP/lassi.png"
     ],
     "images": [
-      "",
-      "",
-      "",
-      ""
+      "./assets/images/product/newP/lassi.png",
+      "./assets/images/product/newP/lassi.png",
+      "./assets/images/product/newP/lassi.png",
+      "./assets/images/product/newP/lassi.png "
     ],
     "description": "Creamy mango lassi blended for a fruity, cooling sip.",
     "action": "add to cart",
@@ -459,25 +459,25 @@
       {
         "color": "200ml",
         "colorCode": "#E7D2A8",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/lassi.png",
+        "image": "./assets/images/product/newP/lassi.png"
       },
       {
         "color": "500ml",
         "colorCode": "#F6EFDD",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/lassi.png",
+        "image": "./assets/images/product/newP/lassi.png"
       }
     ],
     "thumbImage": [
-      "",
-      ""
+      "./assets/images/product/newP/lassi.png",
+      "./assets/images/product/newP/lassi.png"
     ],
     "images": [
-      "",
-      "",
-      "",
-      ""
+      "./assets/images/product/newP/lassi.png",
+      "./assets/images/product/newP/lassi.png",
+      "./assets/images/product/newP/lassi.png",
+      "./assets/images/product/newP/lassi.png"
     ],
     "description": "Savory masala lassi with gentle spice and a smooth curd base.",
     "action": "add to cart",
@@ -506,25 +506,25 @@
       {
         "color": "200g",
         "colorCode": "#F6EFDD",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/paneer.png",
+        "image": "./assets/images/product/newP/paneer.png"
       },
       {
         "color": "500g",
         "colorCode": "#FFFFFF",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/paneer.png",
+        "image": "./assets/images/product/newP/paneer.png"
       }
     ],
     "thumbImage": [
-      "",
-      ""
+      "./assets/images/product/newP/paneer.png",
+      "./assets/images/product/newP/paneer.png"
     ],
     "images": [
-      "",
-      "",
-      "",
-      ""
+      "./assets/images/product/newP/paneer.png",
+      "./assets/images/product/newP/paneer.png",
+      "./assets/images/product/newP/paneer.png",
+      "./assets/images/product/newP/paneer.png"
     ],
     "description": "Soft fresh paneer made from quality milk for everyday cooking.",
     "action": "add to cart",
@@ -553,25 +553,25 @@
       {
         "color": "200g",
         "colorCode": "#F6EFDD",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/paneer.png",
+        "image": "./assets/images/product/newP/paneer.png"
       },
       {
         "color": "500g",
         "colorCode": "#FFFFFF",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/paneer.png",
+        "image": "./assets/images/product/newP/paneer.png"
       }
     ],
     "thumbImage": [
-      "",
-      ""
+      "./assets/images/product/newP/paneer.png",
+      "./assets/images/product/newP/paneer.png"
     ],
     "images": [
-      "",
-      "",
-      "",
-      ""
+      "./assets/images/product/newP/paneer.png",
+      "./assets/images/product/newP/paneer.png",
+      "./assets/images/product/newP/paneer.png",
+      "./assets/images/product/newP/paneer.png"
     ],
     "description": "Rich malai paneer with a soft bite for gravies and starters.",
     "action": "add to cart",
@@ -600,25 +600,26 @@
       {
         "color": "200g",
         "colorCode": "#F6EFDD",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/paneer.png",
+        "image": "./assets/images/product/newP/paneer.png"
       },
       {
         "color": "500g",
         "colorCode": "#FFFFFF",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/paneer.png",
+        "image": "./assets/images/product/newP/paneer.png"
       }
     ],
     "thumbImage": [
-      "",
-      ""
+      "./assets/images/product/newP/paneer.png",
+      "./assets/images/product/newP/paneer.png"
     ],
     "images": [
-      "",
-      "",
-      "",
-      ""
+      "./assets/images/product/newP/paneer.png",
+      "./assets/images/product/newP/paneer.png",
+      "./assets/images/product/newP/paneer.png",
+      "./assets/images/product/newP/paneer.png",
+      "./assets/images/product/newP/paneer.png"
     ],
     "description": "Light paneer with dependable texture for balanced meals.",
     "action": "add to cart",
@@ -647,25 +648,25 @@
       {
         "color": "400g",
         "colorCode": "#F6EFDD",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/curd.png",
+        "image": "./assets/images/product/newP/curd.png"
       },
       {
         "color": "1kg",
         "colorCode": "#FFFFFF",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/curd.png",
+        "image": "./assets/images/product/newP/curd.png"
       }
     ],
     "thumbImage": [
-      "",
-      ""
+      "./assets/images/product/newP/curd.png",
+      "./assets/images/product/newP/curd.png"
     ],
     "images": [
-      "",
-      "",
-      "",
-      ""
+      "./assets/images/product/newP/curd.png",
+      "./assets/images/product/newP/curd.png",
+      "./assets/images/product/newP/curd.png",
+      "./assets/images/product/newP/curd.png"
     ],
     "description": "Naturally set fresh curd with a mild taste and creamy texture.",
     "action": "add to cart",
@@ -694,25 +695,25 @@
       {
         "color": "200g",
         "colorCode": "#F6EFDD",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/curd.png",
+        "image": "./assets/images/product/newP/curd.png"
       },
       {
         "color": "400g",
         "colorCode": "#FFFFFF",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/curd.png",
+        "image": "./assets/images/product/newP/curd.png"
       }
     ],
     "thumbImage": [
-      "",
-      ""
+      "./assets/images/product/newP/curd.png",
+      "./assets/images/product/newP/curd.png"
     ],
     "images": [
-      "",
-      "",
-      "",
-      ""
+      "./assets/images/product/newP/curd.png",
+      "./assets/images/product/newP/curd.png",
+      "./assets/images/product/newP/curd.png",
+      "./assets/images/product/newP/curd.png"
     ],
     "description": "Thick Greek style curd for bowls, dips, smoothies, and snacks.",
     "action": "add to cart",
@@ -741,25 +742,25 @@
       {
         "color": "400g",
         "colorCode": "#F6EFDD",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/curd.png",
+        "image": "./assets/images/product/newP/curd.png"
       },
       {
         "color": "1kg",
         "colorCode": "#FFFFFF",
-        "colorImage": "",
-        "image": ""
+        "colorImage": "./assets/images/product/newP/curd.png",
+        "image": "./assets/images/product/newP/curd.png"
       }
     ],
     "thumbImage": [
-      "",
-      ""
+      "./assets/images/product/newP/curd.png",
+      "./assets/images/product/newP/curd.png"
     ],
     "images": [
-      "",
-      "",
-      "",
-      ""
+      "./assets/images/product/newP/curd.png",
+      "./assets/images/product/newP/curd.png",
+      "./assets/images/product/newP/curd.png",
+      "./assets/images/product/newP/curd.png"
     ],
     "description": "Smooth probiotic curd made for a fresh and balanced daily bowl.",
     "action": "add to cart",
