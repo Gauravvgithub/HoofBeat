@@ -14,30 +14,33 @@
     "sold": 42,
     "quantity": 120,
     "quantityPurchase": 1,
-    "sizes": ["500ml", "1L"],
+    "sizes": [
+      "500ml",
+      "1L"
+    ],
     "variation": [
       {
         "color": "500ml",
         "colorCode": "#F6EFDD",
-        "colorImage": "./assets/images/product/milk/milk.png",
-        "image": "./assets/images/product/milk/milk.png"
+        "colorImage": "",
+        "image": ""
       },
       {
         "color": "1L",
         "colorCode": "#FFFFFF",
-        "colorImage": "./assets/images/product/milk/milk-back.png",
-        "image": "./assets/images/product/milk/milk-back.png"
+        "colorImage": "",
+        "image": ""
       }
     ],
     "thumbImage": [
-      "./assets/images/product/milk/milk.png",
-      "./assets/images/product/milk/milk-back.png"
+      "",
+      ""
     ],
     "images": [
-      "./assets/images/product/milk/milk.png",
-      "./assets/images/product/milk/milk-back.png",
-      "./assets/images/product/milk/milk-1.png",
-      "./assets/images/product/milk/milk-2.png"
+      "",
+      "",
+      "",
+      ""
     ],
     "description": "Fresh organic cow milk sourced daily for a clean, creamy taste.",
     "action": "add to cart",
@@ -58,30 +61,33 @@
     "sold": 36,
     "quantity": 90,
     "quantityPurchase": 1,
-    "sizes": ["500ml", "1L"],
+    "sizes": [
+      "500ml",
+      "1L"
+    ],
     "variation": [
       {
         "color": "500ml",
         "colorCode": "#F6EFDD",
-        "colorImage": "./assets/images/product/milk/milk-1.png",
-        "image": "./assets/images/product/milk/milk-1.png"
+        "colorImage": "",
+        "image": ""
       },
       {
         "color": "1L",
         "colorCode": "#FFFFFF",
-        "colorImage": "./assets/images/product/milk/milk-2.png",
-        "image": "./assets/images/product/milk/milk-2.png"
+        "colorImage": "",
+        "image": ""
       }
     ],
     "thumbImage": [
-      "./assets/images/product/milk/milk-1.png",
-      "./assets/images/product/milk/milk-2.png"
+      "",
+      ""
     ],
     "images": [
-      "./assets/images/product/milk/milk-1.png",
-      "./assets/images/product/milk/milk-2.png",
-      "./assets/images/product/milk/milk.png",
-      "./assets/images/product/milk/milk-back.png"
+      "",
+      "",
+      "",
+      ""
     ],
     "description": "Naturally rich A2 milk from desi cows, packed fresh for everyday nutrition.",
     "action": "add to cart",
@@ -102,30 +108,33 @@
     "sold": 58,
     "quantity": 140,
     "quantityPurchase": 1,
-    "sizes": ["500ml", "1L"],
+    "sizes": [
+      "500ml",
+      "1L"
+    ],
     "variation": [
       {
         "color": "500ml",
         "colorCode": "#F6EFDD",
-        "colorImage": "./assets/images/product/milk/milk-3.png",
-        "image": "./assets/images/product/milk/milk-3.png"
+        "colorImage": "",
+        "image": ""
       },
       {
         "color": "1L",
         "colorCode": "#FFFFFF",
-        "colorImage": "./assets/images/product/milk/milk.png",
-        "image": "./assets/images/product/milk/milk.png"
+        "colorImage": "",
+        "image": ""
       }
     ],
     "thumbImage": [
-      "./assets/images/product/milk/milk-3.png",
-      "./assets/images/product/milk/milk.png"
+      "",
+      ""
     ],
     "images": [
-      "./assets/images/product/milk/milk-3.png",
-      "./assets/images/product/milk/milk.png",
-      "./assets/images/product/milk/milk-back.png",
-      "./assets/images/product/milk/milk-1.png"
+      "",
+      "",
+      "",
+      ""
     ],
     "description": "Creamy full cream milk ideal for tea, coffee, sweets, and daily use.",
     "action": "add to cart",
@@ -146,30 +155,33 @@
     "sold": 31,
     "quantity": 110,
     "quantityPurchase": 1,
-    "sizes": ["500ml", "1L"],
+    "sizes": [
+      "500ml",
+      "1L"
+    ],
     "variation": [
       {
         "color": "500ml",
         "colorCode": "#F6EFDD",
-        "colorImage": "./assets/images/product/milk/milk-2.png",
-        "image": "./assets/images/product/milk/milk-2.png"
+        "colorImage": "",
+        "image": ""
       },
       {
         "color": "1L",
         "colorCode": "#FFFFFF",
-        "colorImage": "./assets/images/product/milk/milk-back.png",
-        "image": "./assets/images/product/milk/milk-back.png"
+        "colorImage": "",
+        "image": ""
       }
     ],
     "thumbImage": [
-      "./assets/images/product/milk/milk-2.png",
-      "./assets/images/product/milk/milk-back.png"
+      "",
+      ""
     ],
     "images": [
-      "./assets/images/product/milk/milk-2.png",
-      "./assets/images/product/milk/milk-back.png",
-      "./assets/images/product/milk/milk-1.png",
-      "./assets/images/product/milk/milk-3.png"
+      "",
+      "",
+      "",
+      ""
     ],
     "description": "Light, balanced toned milk for a smooth everyday dairy option.",
     "action": "add to cart",
@@ -190,36 +202,40 @@
     "sold": 27,
     "quantity": 75,
     "quantityPurchase": 1,
-    "sizes": ["250ml", "500ml", "1L"],
+    "sizes": [
+      "250ml",
+      "500ml",
+      "1L"
+    ],
     "variation": [
       {
         "color": "250ml",
         "colorCode": "#ECB018",
-        "colorImage": "./assets/images/product/milk/milk.png",
-        "image": "./assets/images/product/milk/milk.png"
+        "colorImage": "",
+        "image": ""
       },
       {
         "color": "500ml",
         "colorCode": "#D79A08",
-        "colorImage": "./assets/images/product/milk/milk-1.png",
-        "image": "./assets/images/product/milk/milk-1.png"
+        "colorImage": "",
+        "image": ""
       },
       {
         "color": "1L",
         "colorCode": "#B87503",
-        "colorImage": "./assets/images/product/milk/milk-2.png",
-        "image": "./assets/images/product/milk/milk-2.png"
+        "colorImage": "",
+        "image": ""
       }
     ],
     "thumbImage": [
-      "./assets/images/product/milk/milk.png",
-      "./assets/images/product/milk/milk-1.png"
+      "",
+      ""
     ],
     "images": [
-      "./assets/images/product/milk/milk.png",
-      "./assets/images/product/milk/milk-1.png",
-      "./assets/images/product/milk/milk-2.png",
-      "./assets/images/product/milk/milk-3.png"
+      "",
+      "",
+      "",
+      ""
     ],
     "description": "Aromatic A2 cow ghee made in small batches for rich flavor.",
     "action": "add to cart",
@@ -240,36 +256,40 @@
     "sold": 19,
     "quantity": 60,
     "quantityPurchase": 1,
-    "sizes": ["250ml", "500ml", "1L"],
+    "sizes": [
+      "250ml",
+      "500ml",
+      "1L"
+    ],
     "variation": [
       {
         "color": "250ml",
         "colorCode": "#ECB018",
-        "colorImage": "./assets/images/product/milk/milk-back.png",
-        "image": "./assets/images/product/milk/milk-back.png"
+        "colorImage": "",
+        "image": ""
       },
       {
         "color": "500ml",
         "colorCode": "#D79A08",
-        "colorImage": "./assets/images/product/milk/milk-2.png",
-        "image": "./assets/images/product/milk/milk-2.png"
+        "colorImage": "",
+        "image": ""
       },
       {
         "color": "1L",
         "colorCode": "#B87503",
-        "colorImage": "./assets/images/product/milk/milk-3.png",
-        "image": "./assets/images/product/milk/milk-3.png"
+        "colorImage": "",
+        "image": ""
       }
     ],
     "thumbImage": [
-      "./assets/images/product/milk/milk-back.png",
-      "./assets/images/product/milk/milk-2.png"
+      "",
+      ""
     ],
     "images": [
-      "./assets/images/product/milk/milk-back.png",
-      "./assets/images/product/milk/milk-2.png",
-      "./assets/images/product/milk/milk.png",
-      "./assets/images/product/milk/milk-3.png"
+      "",
+      "",
+      "",
+      ""
     ],
     "description": "Traditional bilona ghee with a deep aroma and wholesome texture.",
     "action": "add to cart",
@@ -290,30 +310,33 @@
     "sold": 22,
     "quantity": 70,
     "quantityPurchase": 1,
-    "sizes": ["250ml", "500ml"],
+    "sizes": [
+      "250ml",
+      "500ml"
+    ],
     "variation": [
       {
         "color": "250ml",
         "colorCode": "#ECB018",
-        "colorImage": "./assets/images/product/milk/milk-3.png",
-        "image": "./assets/images/product/milk/milk-3.png"
+        "colorImage": "",
+        "image": ""
       },
       {
         "color": "500ml",
         "colorCode": "#D79A08",
-        "colorImage": "./assets/images/product/milk/milk.png",
-        "image": "./assets/images/product/milk/milk.png"
+        "colorImage": "",
+        "image": ""
       }
     ],
     "thumbImage": [
-      "./assets/images/product/milk/milk-3.png",
-      "./assets/images/product/milk/milk.png"
+      "",
+      ""
     ],
     "images": [
-      "./assets/images/product/milk/milk-3.png",
-      "./assets/images/product/milk/milk.png",
-      "./assets/images/product/milk/milk-1.png",
-      "./assets/images/product/milk/milk-back.png"
+      "",
+      "",
+      "",
+      ""
     ],
     "description": "Smooth cultured cow ghee made for cooking, tadka, and sweets.",
     "action": "add to cart",
@@ -334,30 +357,33 @@
     "sold": 64,
     "quantity": 100,
     "quantityPurchase": 1,
-    "sizes": ["200ml", "500ml"],
+    "sizes": [
+      "200ml",
+      "500ml"
+    ],
     "variation": [
       {
         "color": "200ml",
         "colorCode": "#F6EFDD",
-        "colorImage": "./assets/images/product/milk/milk.png",
-        "image": "./assets/images/product/milk/milk.png"
+        "colorImage": "",
+        "image": ""
       },
       {
         "color": "500ml",
         "colorCode": "#FFFFFF",
-        "colorImage": "./assets/images/product/milk/milk-1.png",
-        "image": "./assets/images/product/milk/milk-1.png"
+        "colorImage": "",
+        "image": ""
       }
     ],
     "thumbImage": [
-      "./assets/images/product/milk/milk.png",
-      "./assets/images/product/milk/milk-1.png"
+      "",
+      ""
     ],
     "images": [
-      "./assets/images/product/milk/milk.png",
-      "./assets/images/product/milk/milk-1.png",
-      "./assets/images/product/milk/milk-2.png",
-      "./assets/images/product/milk/milk-3.png"
+      "",
+      "",
+      "",
+      ""
     ],
     "description": "Classic sweet lassi with a thick, refreshing dairy finish.",
     "action": "add to cart",
@@ -378,30 +404,33 @@
     "sold": 48,
     "quantity": 85,
     "quantityPurchase": 1,
-    "sizes": ["200ml", "500ml"],
+    "sizes": [
+      "200ml",
+      "500ml"
+    ],
     "variation": [
       {
         "color": "200ml",
         "colorCode": "#F5B942",
-        "colorImage": "./assets/images/product/milk/milk-2.png",
-        "image": "./assets/images/product/milk/milk-2.png"
+        "colorImage": "",
+        "image": ""
       },
       {
         "color": "500ml",
         "colorCode": "#F9D66B",
-        "colorImage": "./assets/images/product/milk/milk-back.png",
-        "image": "./assets/images/product/milk/milk-back.png"
+        "colorImage": "",
+        "image": ""
       }
     ],
     "thumbImage": [
-      "./assets/images/product/milk/milk-2.png",
-      "./assets/images/product/milk/milk-back.png"
+      "",
+      ""
     ],
     "images": [
-      "./assets/images/product/milk/milk-2.png",
-      "./assets/images/product/milk/milk-back.png",
-      "./assets/images/product/milk/milk.png",
-      "./assets/images/product/milk/milk-3.png"
+      "",
+      "",
+      "",
+      ""
     ],
     "description": "Creamy mango lassi blended for a fruity, cooling sip.",
     "action": "add to cart",
@@ -422,30 +451,33 @@
     "sold": 29,
     "quantity": 70,
     "quantityPurchase": 1,
-    "sizes": ["200ml", "500ml"],
+    "sizes": [
+      "200ml",
+      "500ml"
+    ],
     "variation": [
       {
         "color": "200ml",
         "colorCode": "#E7D2A8",
-        "colorImage": "./assets/images/product/milk/milk-3.png",
-        "image": "./assets/images/product/milk/milk-3.png"
+        "colorImage": "",
+        "image": ""
       },
       {
         "color": "500ml",
         "colorCode": "#F6EFDD",
-        "colorImage": "./assets/images/product/milk/milk.png",
-        "image": "./assets/images/product/milk/milk.png"
+        "colorImage": "",
+        "image": ""
       }
     ],
     "thumbImage": [
-      "./assets/images/product/milk/milk-3.png",
-      "./assets/images/product/milk/milk.png"
+      "",
+      ""
     ],
     "images": [
-      "./assets/images/product/milk/milk-3.png",
-      "./assets/images/product/milk/milk.png",
-      "./assets/images/product/milk/milk-1.png",
-      "./assets/images/product/milk/milk-2.png"
+      "",
+      "",
+      "",
+      ""
     ],
     "description": "Savory masala lassi with gentle spice and a smooth curd base.",
     "action": "add to cart",
@@ -466,30 +498,33 @@
     "sold": 44,
     "quantity": 95,
     "quantityPurchase": 1,
-    "sizes": ["200g", "500g"],
+    "sizes": [
+      "200g",
+      "500g"
+    ],
     "variation": [
       {
         "color": "200g",
         "colorCode": "#F6EFDD",
-        "colorImage": "./assets/images/product/milk/milk.png",
-        "image": "./assets/images/product/milk/milk.png"
+        "colorImage": "",
+        "image": ""
       },
       {
         "color": "500g",
         "colorCode": "#FFFFFF",
-        "colorImage": "./assets/images/product/milk/milk-1.png",
-        "image": "./assets/images/product/milk/milk-1.png"
+        "colorImage": "",
+        "image": ""
       }
     ],
     "thumbImage": [
-      "./assets/images/product/milk/milk.png",
-      "./assets/images/product/milk/milk-1.png"
+      "",
+      ""
     ],
     "images": [
-      "./assets/images/product/milk/milk.png",
-      "./assets/images/product/milk/milk-1.png",
-      "./assets/images/product/milk/milk-2.png",
-      "./assets/images/product/milk/milk-back.png"
+      "",
+      "",
+      "",
+      ""
     ],
     "description": "Soft fresh paneer made from quality milk for everyday cooking.",
     "action": "add to cart",
@@ -510,30 +545,33 @@
     "sold": 33,
     "quantity": 80,
     "quantityPurchase": 1,
-    "sizes": ["200g", "500g"],
+    "sizes": [
+      "200g",
+      "500g"
+    ],
     "variation": [
       {
         "color": "200g",
         "colorCode": "#F6EFDD",
-        "colorImage": "./assets/images/product/milk/milk-2.png",
-        "image": "./assets/images/product/milk/milk-2.png"
+        "colorImage": "",
+        "image": ""
       },
       {
         "color": "500g",
         "colorCode": "#FFFFFF",
-        "colorImage": "./assets/images/product/milk/milk-3.png",
-        "image": "./assets/images/product/milk/milk-3.png"
+        "colorImage": "",
+        "image": ""
       }
     ],
     "thumbImage": [
-      "./assets/images/product/milk/milk-2.png",
-      "./assets/images/product/milk/milk-3.png"
+      "",
+      ""
     ],
     "images": [
-      "./assets/images/product/milk/milk-2.png",
-      "./assets/images/product/milk/milk-3.png",
-      "./assets/images/product/milk/milk.png",
-      "./assets/images/product/milk/milk-back.png"
+      "",
+      "",
+      "",
+      ""
     ],
     "description": "Rich malai paneer with a soft bite for gravies and starters.",
     "action": "add to cart",
@@ -554,30 +592,33 @@
     "sold": 21,
     "quantity": 65,
     "quantityPurchase": 1,
-    "sizes": ["200g", "500g"],
+    "sizes": [
+      "200g",
+      "500g"
+    ],
     "variation": [
       {
         "color": "200g",
         "colorCode": "#F6EFDD",
-        "colorImage": "./assets/images/product/milk/milk-back.png",
-        "image": "./assets/images/product/milk/milk-back.png"
+        "colorImage": "",
+        "image": ""
       },
       {
         "color": "500g",
         "colorCode": "#FFFFFF",
-        "colorImage": "./assets/images/product/milk/milk-1.png",
-        "image": "./assets/images/product/milk/milk-1.png"
+        "colorImage": "",
+        "image": ""
       }
     ],
     "thumbImage": [
-      "./assets/images/product/milk/milk-back.png",
-      "./assets/images/product/milk/milk-1.png"
+      "",
+      ""
     ],
     "images": [
-      "./assets/images/product/milk/milk-back.png",
-      "./assets/images/product/milk/milk-1.png",
-      "./assets/images/product/milk/milk-2.png",
-      "./assets/images/product/milk/milk-3.png"
+      "",
+      "",
+      "",
+      ""
     ],
     "description": "Light paneer with dependable texture for balanced meals.",
     "action": "add to cart",
@@ -598,30 +639,33 @@
     "sold": 52,
     "quantity": 130,
     "quantityPurchase": 1,
-    "sizes": ["400g", "1kg"],
+    "sizes": [
+      "400g",
+      "1kg"
+    ],
     "variation": [
       {
         "color": "400g",
         "colorCode": "#F6EFDD",
-        "colorImage": "./assets/images/product/milk/milk.png",
-        "image": "./assets/images/product/milk/milk.png"
+        "colorImage": "",
+        "image": ""
       },
       {
         "color": "1kg",
         "colorCode": "#FFFFFF",
-        "colorImage": "./assets/images/product/milk/milk-2.png",
-        "image": "./assets/images/product/milk/milk-2.png"
+        "colorImage": "",
+        "image": ""
       }
     ],
     "thumbImage": [
-      "./assets/images/product/milk/milk.png",
-      "./assets/images/product/milk/milk-2.png"
+      "",
+      ""
     ],
     "images": [
-      "./assets/images/product/milk/milk.png",
-      "./assets/images/product/milk/milk-2.png",
-      "./assets/images/product/milk/milk-1.png",
-      "./assets/images/product/milk/milk-back.png"
+      "",
+      "",
+      "",
+      ""
     ],
     "description": "Naturally set fresh curd with a mild taste and creamy texture.",
     "action": "add to cart",
@@ -642,30 +686,33 @@
     "sold": 25,
     "quantity": 70,
     "quantityPurchase": 1,
-    "sizes": ["200g", "400g"],
+    "sizes": [
+      "200g",
+      "400g"
+    ],
     "variation": [
       {
         "color": "200g",
         "colorCode": "#F6EFDD",
-        "colorImage": "./assets/images/product/milk/milk-3.png",
-        "image": "./assets/images/product/milk/milk-3.png"
+        "colorImage": "",
+        "image": ""
       },
       {
         "color": "400g",
         "colorCode": "#FFFFFF",
-        "colorImage": "./assets/images/product/milk/milk-back.png",
-        "image": "./assets/images/product/milk/milk-back.png"
+        "colorImage": "",
+        "image": ""
       }
     ],
     "thumbImage": [
-      "./assets/images/product/milk/milk-3.png",
-      "./assets/images/product/milk/milk-back.png"
+      "",
+      ""
     ],
     "images": [
-      "./assets/images/product/milk/milk-3.png",
-      "./assets/images/product/milk/milk-back.png",
-      "./assets/images/product/milk/milk.png",
-      "./assets/images/product/milk/milk-1.png"
+      "",
+      "",
+      "",
+      ""
     ],
     "description": "Thick Greek style curd for bowls, dips, smoothies, and snacks.",
     "action": "add to cart",
@@ -686,30 +733,33 @@
     "sold": 38,
     "quantity": 85,
     "quantityPurchase": 1,
-    "sizes": ["400g", "1kg"],
+    "sizes": [
+      "400g",
+      "1kg"
+    ],
     "variation": [
       {
         "color": "400g",
         "colorCode": "#F6EFDD",
-        "colorImage": "./assets/images/product/milk/milk-1.png",
-        "image": "./assets/images/product/milk/milk-1.png"
+        "colorImage": "",
+        "image": ""
       },
       {
         "color": "1kg",
         "colorCode": "#FFFFFF",
-        "colorImage": "./assets/images/product/milk/milk-2.png",
-        "image": "./assets/images/product/milk/milk-2.png"
+        "colorImage": "",
+        "image": ""
       }
     ],
     "thumbImage": [
-      "./assets/images/product/milk/milk-1.png",
-      "./assets/images/product/milk/milk-2.png"
+      "",
+      ""
     ],
     "images": [
-      "./assets/images/product/milk/milk-1.png",
-      "./assets/images/product/milk/milk-2.png",
-      "./assets/images/product/milk/milk-3.png",
-      "./assets/images/product/milk/milk.png"
+      "",
+      "",
+      "",
+      ""
     ],
     "description": "Smooth probiotic curd made for a fresh and balanced daily bowl.",
     "action": "add to cart",
